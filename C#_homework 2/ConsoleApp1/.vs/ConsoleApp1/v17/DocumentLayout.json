@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dejan\\OneDrive\\Desktop\\C#_homework 2\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13CF9C17-2773-4369-9400-7ACB83165ECE}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\dejan\\onedrive\\desktop\\c#_homework 2\\consoleapp1\\consoleapp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CF9C17-2773-4369-9400-7ACB83165ECE}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CF9C17-2773-4369-9400-7ACB83165ECE}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\dejan\\onedrive\\desktop\\c#_homework 2\\consoleapp1\\consoleapp4\\models\\programmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CF9C17-2773-4369-9400-7ACB83165ECE}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\models\\programmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CF9C17-2773-4369-9400-7ACB83165ECE}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\dejan\\onedrive\\desktop\\c#_homework 2\\consoleapp1\\consoleapp4\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CF9C17-2773-4369-9400-7ACB83165ECE}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CF9C17-2773-4369-9400-7ACB83165ECE}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\dejan\\onedrive\\desktop\\c#_homework 2\\consoleapp1\\consoleapp4\\baseentity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CF9C17-2773-4369-9400-7ACB83165ECE}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\baseentity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87FB1953-D465-48B0-9F11-AA395B794F4F}|ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\dejan\\onedrive\\desktop\\c#_homework 2\\consoleapp1\\consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87FB1953-D465-48B0-9F11-AA395B794F4F}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87FB1953-D465-48B0-9F11-AA395B794F4F}|ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\dejan\\onedrive\\desktop\\c#_homework 2\\consoleapp1\\consoleapp3\\models\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87FB1953-D465-48B0-9F11-AA395B794F4F}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\models\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87FB1953-D465-48B0-9F11-AA395B794F4F}|ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\dejan\\onedrive\\desktop\\c#_homework 2\\consoleapp1\\consoleapp3\\baseentity\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87FB1953-D465-48B0-9F11-AA395B794F4F}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\baseentity\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87FB1953-D465-48B0-9F11-AA395B794F4F}|ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\dejan\\onedrive\\desktop\\c#_homework 2\\consoleapp1\\consoleapp3\\models\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87FB1953-D465-48B0-9F11-AA395B794F4F}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\models\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5AFB2C-C223-4754-BC42-0A2D6F5A49F0}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\dejan\\onedrive\\desktop\\c#_homework 2\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5AFB2C-C223-4754-BC42-0A2D6F5A49F0}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\Dejan\\OneDrive\\Desktop\\C#_homework 2\\ConsoleApp1\\ConsoleApp3\\BaseEntity\\Shape.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\BaseEntity\\Shape.cs",
+              "ToolTip": "C:\\Users\\Dejan\\OneDrive\\Desktop\\C#_homework 2\\ConsoleApp1\\ConsoleApp3\\BaseEntity\\Shape.cs",
+              "RelativeToolTip": "ConsoleApp3\\BaseEntity\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T20:50:03.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dejan\\OneDrive\\Desktop\\C#_homework 2\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Dejan\\OneDrive\\Desktop\\C#_homework 2\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:24:11.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\Dejan\\OneDrive\\Desktop\\C#_homework 2\\ConsoleApp1\\ConsoleApp3\\Models\\Circle.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\Models\\Circle.cs",
+              "ToolTip": "C:\\Users\\Dejan\\OneDrive\\Desktop\\C#_homework 2\\ConsoleApp1\\ConsoleApp3\\Models\\Circle.cs",
+              "RelativeToolTip": "ConsoleApp3\\Models\\Circle.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T20:51:47.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\Users\\Dejan\\OneDrive\\Desktop\\C#_homework 2\\ConsoleApp1\\ConsoleApp3\\Models\\Triangle.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\Models\\Triangle.cs",
+              "ToolTip": "C:\\Users\\Dejan\\OneDrive\\Desktop\\C#_homework 2\\ConsoleApp1\\ConsoleApp3\\Models\\Triangle.cs",
+              "RelativeToolTip": "ConsoleApp3\\Models\\Triangle.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA3wBYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T20:52:33.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dejan\\OneDrive\\Desktop\\C#_homework 2\\ConsoleApp1\\ConsoleApp3\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\Program.cs",
+              "ToolTip": "C:\\Users\\Dejan\\OneDrive\\Desktop\\C#_homework 2\\ConsoleApp1\\ConsoleApp3\\Program.cs",
+              "RelativeToolTip": "ConsoleApp3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T21:00:56.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dejan\\OneDrive\\Desktop\\C#_homework 2\\ConsoleApp1\\ConsoleApp4\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Program.cs",
+              "ToolTip": "C:\\Users\\Dejan\\OneDrive\\Desktop\\C#_homework 2\\ConsoleApp1\\ConsoleApp4\\Program.cs",
+              "RelativeToolTip": "ConsoleApp4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T21:12:57.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Dejan\\OneDrive\\Desktop\\C#_homework 2\\ConsoleApp1\\ConsoleApp4\\BaseEntity\\Employee.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\BaseEntity\\Employee.cs",
+              "ToolTip": "C:\\Users\\Dejan\\OneDrive\\Desktop\\C#_homework 2\\ConsoleApp1\\ConsoleApp4\\BaseEntity\\Employee.cs",
+              "RelativeToolTip": "ConsoleApp4\\BaseEntity\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T21:14:24.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\Dejan\\OneDrive\\Desktop\\C#_homework 2\\ConsoleApp1\\ConsoleApp4\\Models\\Manager.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Models\\Manager.cs",
+              "ToolTip": "C:\\Users\\Dejan\\OneDrive\\Desktop\\C#_homework 2\\ConsoleApp1\\ConsoleApp4\\Models\\Manager.cs",
+              "RelativeToolTip": "ConsoleApp4\\Models\\Manager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T21:16:44.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Programmer.cs",
+              "DocumentMoniker": "C:\\Users\\Dejan\\OneDrive\\Desktop\\C#_homework 2\\ConsoleApp1\\ConsoleApp4\\Models\\Programmer.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Models\\Programmer.cs",
+              "ToolTip": "C:\\Users\\Dejan\\OneDrive\\Desktop\\C#_homework 2\\ConsoleApp1\\ConsoleApp4\\Models\\Programmer.cs",
+              "RelativeToolTip": "ConsoleApp4\\Models\\Programmer.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T21:17:00.136Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
