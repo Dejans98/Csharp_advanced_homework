@@ -1,0 +1,14 @@
+C:\Users\Dejan\OneDrive\Desktop\C#adv homework 3\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\UserSerch.exe
+C:\Users\Dejan\OneDrive\Desktop\C#adv homework 3\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\UserSerch.deps.json
+C:\Users\Dejan\OneDrive\Desktop\C#adv homework 3\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\UserSerch.runtimeconfig.json
+C:\Users\Dejan\OneDrive\Desktop\C#adv homework 3\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\UserSerch.dll
+C:\Users\Dejan\OneDrive\Desktop\C#adv homework 3\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\UserSerch.pdb
+C:\Users\Dejan\OneDrive\Desktop\C#adv homework 3\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\UserSerch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dejan\OneDrive\Desktop\C#adv homework 3\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\UserSerch.AssemblyInfoInputs.cache
+C:\Users\Dejan\OneDrive\Desktop\C#adv homework 3\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\UserSerch.AssemblyInfo.cs
+C:\Users\Dejan\OneDrive\Desktop\C#adv homework 3\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\UserSerch.csproj.CoreCompileInputs.cache
+C:\Users\Dejan\OneDrive\Desktop\C#adv homework 3\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\UserSerch.dll
+C:\Users\Dejan\OneDrive\Desktop\C#adv homework 3\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\UserSerch.dll
+C:\Users\Dejan\OneDrive\Desktop\C#adv homework 3\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\UserSerch.pdb
+C:\Users\Dejan\OneDrive\Desktop\C#adv homework 3\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\UserSerch.genruntimeconfig.cache
+C:\Users\Dejan\OneDrive\Desktop\C#adv homework 3\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\UserSerch.dll

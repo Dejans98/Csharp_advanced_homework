@@ -1,0 +1,14 @@
+C:\Users\Dejan\OneDrive\Desktop\C#adv homework 3\ConsoleApp1\VehicleInfo\bin\Debug\net8.0\VehicleInfo.exe
+C:\Users\Dejan\OneDrive\Desktop\C#adv homework 3\ConsoleApp1\VehicleInfo\bin\Debug\net8.0\VehicleInfo.deps.json
+C:\Users\Dejan\OneDrive\Desktop\C#adv homework 3\ConsoleApp1\VehicleInfo\bin\Debug\net8.0\VehicleInfo.runtimeconfig.json
+C:\Users\Dejan\OneDrive\Desktop\C#adv homework 3\ConsoleApp1\VehicleInfo\bin\Debug\net8.0\VehicleInfo.dll
+C:\Users\Dejan\OneDrive\Desktop\C#adv homework 3\ConsoleApp1\VehicleInfo\bin\Debug\net8.0\VehicleInfo.pdb
+C:\Users\Dejan\OneDrive\Desktop\C#adv homework 3\ConsoleApp1\VehicleInfo\obj\Debug\net8.0\VehicleInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dejan\OneDrive\Desktop\C#adv homework 3\ConsoleApp1\VehicleInfo\obj\Debug\net8.0\VehicleInfo.AssemblyInfoInputs.cache
+C:\Users\Dejan\OneDrive\Desktop\C#adv homework 3\ConsoleApp1\VehicleInfo\obj\Debug\net8.0\VehicleInfo.AssemblyInfo.cs
+C:\Users\Dejan\OneDrive\Desktop\C#adv homework 3\ConsoleApp1\VehicleInfo\obj\Debug\net8.0\VehicleInfo.csproj.CoreCompileInputs.cache
+C:\Users\Dejan\OneDrive\Desktop\C#adv homework 3\ConsoleApp1\VehicleInfo\obj\Debug\net8.0\VehicleInfo.dll
+C:\Users\Dejan\OneDrive\Desktop\C#adv homework 3\ConsoleApp1\VehicleInfo\obj\Debug\net8.0\refint\VehicleInfo.dll
+C:\Users\Dejan\OneDrive\Desktop\C#adv homework 3\ConsoleApp1\VehicleInfo\obj\Debug\net8.0\VehicleInfo.pdb
+C:\Users\Dejan\OneDrive\Desktop\C#adv homework 3\ConsoleApp1\VehicleInfo\obj\Debug\net8.0\VehicleInfo.genruntimeconfig.cache
+C:\Users\Dejan\OneDrive\Desktop\C#adv homework 3\ConsoleApp1\VehicleInfo\obj\Debug\net8.0\ref\VehicleInfo.dll
